@@ -1,0 +1,15 @@
+a. Ler o programa exemplo
+OK
+
+b. Rodar o programa
+OK
+
+c. Propor melhorias para o programa. O que fazer para ele ser mais interessante. Ter um menu? Como quais funções?
+1 - Declarar nomes de variaveis mais legiveis
+2 - Ter um menu com opções
+3 - Adicionar um elemento da lista
+4 - Remover um elemento da lista
+5 - Exibir a lista de todos elementos ordenados
+
+d. Criar o menu no main (ainda não precisa implementar as funções)
+OK
