@@ -1,0 +1,18 @@
+﻿Com base na atividade da aula passada:
+
+a) Implementar melhorias no codigo (tornar mais legivel)
+OK
+b) Implementar o menu
+OK
+c) Pesquisar sobre lista duplamente encadeada
+OK
+d) Mudar a lista para ser duplamente encadeada
+OK
+*e) Imlementar uma fun��o de excluir com base em um c�digo de aluno
+
+f) Implementar uma fun��o para imprimir a lista em ordem ascendente (primeiro elemento para o �ltimo)
+OK
+g) Implementar uma fun��o para imprimir a lista em ordem ascendente (�ltimo elemento para o primeiro)
+OK
+h) corrigir o problema que o �ltimo elemento do arquivo n�o esta sendo considerado
+OK
